@@ -1,2 +1,2 @@
 # Tratamento de ruído do software CellProfiler
-Esse é o repositório do trabalho final de Álgebra Linear Computacional das estudantes Eloisa Maria Amador Souza, Giovana Martins Coelho, Maria Clara Macedo Lelis e Raphaella Tamyres Siqueira Gonçalves. 
+Neste repositório encontra-se o trabalho final da disciplina de Álgebra Linear Computacional, ofertada na Ilum Escola de Ciência pelo professor Dr. Vinícius Francisco Wasques. 
