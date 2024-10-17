@@ -1,2 +1,2 @@
-# Tratamento-de-ru-do-do-software-CellProfiler
+# Tratamento de ruído do software CellProfiler
 Repositório do trabalho final de Álgebra Linear Computacional.
