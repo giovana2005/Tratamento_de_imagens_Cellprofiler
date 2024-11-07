@@ -18,7 +18,7 @@ Neste repositório encontra-se o trabalho final da disciplina de Álgebra Linear
 ## 📁Acesso ao projeto
 
 Para ver o projeto você pode acessar os arquivos abaixo:
-- [Explicação teórica]()
+- [Relatório do Projeto]()
 
 ## 👩‍💻Desenvolvedoras do Projeto
 
