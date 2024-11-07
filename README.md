@@ -17,14 +17,17 @@ Neste repositório encontra-se o trabalho final da disciplina de Álgebra Linear
 
 ## 📁Acesso ao projeto
 
+Para ver o projeto você pode acessar os arquivos abaixo:
+- [Explicação teórica]()
+
 ## 👩‍💻Desenvolvedoras do Projeto
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425341?s=400&u=27f1f6f0257dfea068b3b763758914d077f15952&v=4" width=115><br><sub>Eloisa Maria Amador Souza</sub>](https://github.com/settings/profile) |  
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425607?v=4" width=115><br><sub> Giovana Martins Coelho</sub>](https://github.com/giovana2005) |  
 
-| [<img loading="lazy" src="" width=115><br><sub>Maria Clara Macedo Lelis </sub>]() | 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172424981?v=4" width=115><br><sub>Maria Clara Macedo Lelis </sub>](https://github.com/ClaraLelis) | 
 
-| [<img loading="lazy" src="" width=115><br><sub> Rafaela Beatriz Silva Luz </sub>]() | 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425353?v=4" width=115><br><sub> Rafaela Beatriz Silva Luz </sub>](https://github.com/Rafaela-Luz) | 
 
 ## 📚Referências
