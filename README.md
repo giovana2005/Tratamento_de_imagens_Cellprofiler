@@ -35,6 +35,9 @@ Para ver o projeto você pode acessar os arquivos abaixo:
 Broad, I. Cellprofiler - advanced modules. https://cellprofiler-manual.s3.amazonaws.com/
 CellProfiler-4.2.1/modules/advanced.html. Accessed: 2024-11-28.
 
+Cellprofiler: Advanced. https://cellprofiler-manual.s3.amazonaws.com/
+CellProfiler-4.2.1/modules/advanced.html. Accessed: 2024-11-01.
+
 Centeno, J. Spatial filtering/ filtragem. https://docs.ufpr.br/~centeno/m_pdi/pdf/
 jaulapdi03.pdf. Accessed: 2024-11-01.
 
