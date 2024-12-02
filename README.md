@@ -1,4 +1,4 @@
-<h1 align="center">  Tratamento de ruído de imagens com o software CellProfiler 🔬🦠
+<h1 align="center">  Tratamento de ruído de imagens com filtro gaussiano 🔬🦠
  </h1>
 
 # Índice 
