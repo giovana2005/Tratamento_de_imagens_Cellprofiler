@@ -4,7 +4,6 @@
 # Índice 
 
 * [📝 Descrição do Projeto](#descrição-do-projeto)
-* [💻 Tecnologias utilizadas](#tecnologias-utilizadas)
 * [📁 Acesso ao projeto](#acesso-ao-projeto)
 * [👩‍💻 Desenvolvedoras do Projeto](#desenvolvedoras-do-projeto)
 * [📚 Referências](#referências)
@@ -13,8 +12,6 @@
 
 Neste repositório encontra-se o trabalho final da disciplina de Álgebra Linear Computacional, ofertada na Ilum Escola de Ciência pelo professor Dr. Vinícius Francisco Wasques. 
 Este trabalho utiliza o filtro gaussiano para a redução de ruídos em imagens, empregando o software CellProfiler. A filtragem é uma operação que visa extrair informações relevantes da imagem, neste caso, para eliminar ruídos. O processo de filtragem gera uma nova imagem, com a convolução dos pixels da imagem original. O filtro gaussiano é classificado como um filtro passa-baixa, o que significa que ele suaviza os traços da imagem. Para isso, ele atenua as frequências altas, que estão associadas aos detalhes da imagem, permitindo a passagem apenas das frequências baixas. Como resultado, ocorre a remoção dos detalhes e a suavização da imagem, tornando-a mais homogênea. O objetivo deste trabalho é explorar a aplicabilidade do filtro gaussiano em diversas áreas científicas onde a obtenção de imagens é necessária. A redução de ruídos auxilia na melhor visualização do objeto de estudo, contribuindo para análises mais precisas e eficazes. 
-
-## 💻Tecnologias utilizadas
 
 ## 📁Acesso ao projeto
 
