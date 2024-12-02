@@ -19,6 +19,7 @@ Para ver o projeto você pode acessar os arquivos abaixo:
 - [Relatório do Projeto](https://github.com/giovana2005/Tratamento_de_imagens_Cellprofiler/blob/main/Relat%C3%B3rio%20do%20Projeto)
 - [Códigos desenvolvidos](https://github.com/giovana2005/Tratamento_de_imagens_Cellprofiler/tree/main/codigos_filtro_gaussiano)
 - [Imagens Utilizadas](https://github.com/giovana2005/Tratamento_de_imagens_Cellprofiler/tree/main/Imagens_utilizadas)
+- [Relatório do projeto](https://github.com/giovana2005/Tratamento_de_imagens_Cellprofiler/blob/main/Relat%C3%B3rio%20do%20Projeto.pdf)
 
 ## 👩‍💻Desenvolvedoras do Projeto
 
